@@ -1,5 +1,7 @@
-#Test
+# Test
 
 git is amazing !
 
-abcd
+# local development
+
+1. all code will be written on development server.
